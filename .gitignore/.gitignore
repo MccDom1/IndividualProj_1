@@ -1,0 +1,10 @@
+# Java compiled files
+*.class
+
+
+.DS_Store
+
+
+.vscode/
+
+bin/

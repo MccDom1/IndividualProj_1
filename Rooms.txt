@@ -1,0 +1,7 @@
+# id|name|description|N,E,S,W
+1|Foyer|A very majestic room or entry way.|2,3,0,0
+2|Gallery|Portraits on the walls like Hogwarts.|0,0,1,4
+3|Library|Imagine GGC Library.|0,0,0,1
+4|Courtyard|A courtyard like Shrek Swamp.|0,0,2,5
+5|Study|Imagine a desk and a room with all the trimmings|0,0,0,4
+6|Observatory|Room for observation. |0,0,0,0
